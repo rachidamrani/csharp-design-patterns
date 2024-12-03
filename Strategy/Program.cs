@@ -1,9 +1,9 @@
-﻿// /**
-// Define a family of algorithms, encapsulate each one, and make them interchangeable.
-// Strategy lets the algorithm vary independently of clients that use it.
-// <=>
-// Put interchangeable logic behind an interface
-// **/
+﻿/*
+Define a family of algorithms, encapsulate each one, and make them interchangeable.
+Strategy lets the algorithm vary independently of clients that use it.
+<=>
+Put interchangeable logic behind an interface
+**/
 
 
 Context context = new Context();
